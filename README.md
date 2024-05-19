@@ -6,17 +6,17 @@ Netflix-x is a beginner-friendly Netflix clone project built using HTML and CSS.
 
 ## Table of Contents 📌
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Features](#Features💡)
+- [Installation](#Installation⚙️)
+- [Usage](#Usage✨)
 
-## Features 💡
+## Features💡
 
 - Responsive design
 - Basic animations
 - HTML and CSS only
 
-## Installation ⚙️
+## Installation⚙️
 
 1. Clone the repository:
 
@@ -27,7 +27,7 @@ Netflix-x is a beginner-friendly Netflix clone project built using HTML and CSS.
 
 - Explore the HTML and CSS files to understand the structure and styles.
 
-## Usage ✨
+## Usage✨
 - Open the index.html file in a web browser to view the Netflix-x clone.
 
 - Customize the content in the HTML files to make it your own.
